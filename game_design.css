@@ -1,0 +1,26 @@
+.Krestiki-Noliki{
+    width: 400px;
+    margin: 0 auto;
+}
+.block{
+  border:1px solid #444;
+  height: 120px;
+  width: 120px;
+  float: left;
+  cursor: pointer;
+  color: black;
+  text-align: center;
+  font-size: 100px;
+}
+#console{
+  font-size: 20px;
+}
+#newGame{
+  font-size:15px;
+}
+#character{
+  font-size: 20px;
+}
+input{
+  font-size:15px;
+}
